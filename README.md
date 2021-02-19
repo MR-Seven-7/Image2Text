@@ -1,7 +1,7 @@
 # Image2Text
 A python script that makes a string that represent an image.
 
-NOTE: USE FONT FACE THAT HAS EQUAL WIDTH FOR EVERY CHARACTER. FOR EXAMPLE - CONSOLAS
+<strong>NOTE: USE FONT FACE THAT HAS EQUAL WIDTH FOR EVERY CHARACTER. FOR EXAMPLE - CONSOLAS</strong>
 
 I made a python script that makes a string that represent an image. For example if you input a image of box. The script will come up with something like -
 <pre>
